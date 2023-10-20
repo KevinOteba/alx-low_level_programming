@@ -20,7 +20,7 @@ j++;
 while (j < n)
 {
 dest[j] = '\0';
-j++
+j++;
 }
 return (dest);
 }
